@@ -1,5 +1,7 @@
 # 🚦 RLSim: Interactive Traffic Rules Learning & Simulator
 
+![RLSim Logo](./assets/images/logos/first-logo.png)
+
 Learn traffic rules. Test them. Master them.
 
 ## 🎓 Complete Learning Ecosystem

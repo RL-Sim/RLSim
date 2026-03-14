@@ -22,6 +22,10 @@ tree RLSim/
 ├── static/                       # Web UI assets (frontend)
 │   ├── index.html                # SVG container and HTML structure
 │   └── style.css                 # Road, vehicle, and UI styling
+├── assets/                       # Project assets (images, logos, etc.)
+│   └── images/                   # Image assets
+│       └── logos/                # Logo files
+│           └── first-logo.png    # RLSim project logo
 ├── docs/                         # Documentation (Diátaxis organized)
 │   ├── tutorials/                # Learning-oriented guides
 │   │   ├── getting-started.md    # (Planned) 5-minute quick start
@@ -124,6 +128,19 @@ tree RLSim/
   - Road and lane styling
   - Vehicle appearance (colors, shapes)
   - UI component styling (buttons, sliders, dashboards)
+
+### `assets/` - Project Assets
+
+**Purpose:** Static assets including images, logos, and media files.
+
+**Subdirectories:**
+
+- **`images/`** - Image assets
+  - **`logos/`** - Logo files and branding assets
+    - **`first-logo.png`** - RLSim project logo
+      - Used in README and documentation
+      - High-quality PNG format
+      - Suitable for GitHub and web display
 
 ### `docs/` - Documentation (Diátaxis Framework)
 
@@ -373,7 +390,7 @@ Regenerate with `wasm-pack build --target web`.
 
 - **`README.md`** - Project overview
 
-  - Quick introduction
+  - Quick introduction with logo
   - Tech stack summary
   - Quick start instructions
   - Link to detailed documentation
@@ -393,6 +410,14 @@ Regenerate with `wasm-pack build --target web`.
   - SVG vs Canvas comparison
   - Why Rust + WASM was chosen
   - Architecture rationale
+
+### Asset Files
+
+- **`assets/`** - Project assets directory
+  - **`images/logos/first-logo.png`** - RLSim project logo
+    - Used in README and documentation
+    - High-quality PNG format
+    - Suitable for GitHub and web display
 
 ## Navigation Guide
 
