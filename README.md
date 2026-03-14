@@ -95,11 +95,6 @@ organized into four types for different learning needs:
 - [Technical Choices] - Why SVG/Rust and design rationale
 - [Roadmap] - Development phases and planned features
 
-## 📂 Project Structure
-
-For a complete directory breakdown with detailed descriptions,
-see [Project Structure].
-
 ## Links
 
 - [API Reference]
@@ -120,7 +115,7 @@ see [Project Structure].
 [Architecture]: ./docs/reference/architecture.md
 [Concepts]: ./docs/explanation/index.md
 [Diátaxis framework]: https://diataxis.fr/
-[Getting Started]: ./docs/tutorials/index.md
+[Getting Started]: ./docs/tutorials/getting-started.md
 [How-To Guides]: ./docs/how-to/index.md
 [Installation & Setup]: ./INSTALL.md
 [Project Structure]: docs/reference/project-structure.md

@@ -159,11 +159,13 @@ Problem-solving guides for specific tasks.
 See [How-To Guides] for complete list.
 
 - **`index.md`** - Overview of all how-to guides
+
   - Purpose and when to use how-to guides
   - Quick navigation
   - Contributing guidelines
 
 - **`add-traffic-rule.md`** - Extend priority rules
+
   - Creating custom traffic rules
   - Implementing new priority logic
   - Testing rule implementations
@@ -185,11 +187,13 @@ Technical reference material for developers.
 See [Reference] for complete list.
 
 - **`index.md`** - Overview of all reference documentation
+
   - Purpose and when to use reference guides
   - Quick navigation
   - Links to all reference materials
 
 - **`project-structure.md`** - This file
+
   - Directory layout and file descriptions
   - Purpose of each component
   - Navigation guide
@@ -229,6 +233,7 @@ Conceptual guides that explain the "why" behind design decisions.
 See [Explanation] for complete list.
 
 - **`index.md`** - Overview of all explanation documentation
+
   - Purpose and when to use explanation guides
   - Quick navigation
   - Key concepts overview
